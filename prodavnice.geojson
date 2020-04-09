@@ -110,7 +110,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.646195,44.882450 ]
     },
     "properties": {
     "id":8,
@@ -365,7 +365,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.646275,44.862929 ]
     },
     "properties": {
     "id":25,
@@ -530,7 +530,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.763531,44.868121 ]
     },
     "properties": {
     "id":37,
@@ -582,6 +582,171 @@
     "naziv":"Младост Подунавље",
     "adresa":"Гробљанска 12",
     "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.782582,44.990068 ]
+    },
+    "properties": {
+    "id":62,
+    "naziv":"АД Подунавље",
+    "adresa":"Маршала Тита 67",
+    "mesto":"Банатско Ново Село",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.695747,44.970736 ]
+    },
+    "properties": {
+    "id":63,
+    "naziv":"Мира 1 мај",
+    "adresa":"Првомајска 43",
+    "mesto":"Качарево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.694784,44.958014 ]
+    },
+    "properties": {
+    "id":64,
+    "naziv":"Мавко",
+    "adresa":"Радничка 104",
+    "mesto":"Качарево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.692968,44.964553 ]
+    },
+    "properties": {
+    "id":65,
+    "naziv":"Јаца трговина",
+    "adresa":"Маршала Тита 13а",
+    "mesto":"Качарево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.704018,44.968216 ]
+    },
+    "properties": {
+    "id":66,
+    "naziv":"Пеђа и Маја",
+    "adresa":"Маршала Тита 57",
+    "mesto":"Качарево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.697838,44.967011 ]
+    },
+    "properties": {
+    "id":67,
+    "naziv":"АД Подунавље",
+    "adresa":"Народног фронта ББ",
+    "mesto":"Качарево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.603136,44.948554 ]
+    },
+    "properties": {
+    "id":68,
+    "naziv":"Браво",
+    "adresa":"Маршала Тита 53",
+    "mesto":"Јабука",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.594821,44.948592 ]
+    },
+    "properties": {
+    "id":69,
+    "naziv":"АД Подунавље",
+    "adresa":"Трг Бориса Кидрича 12",
+    "mesto":"Јабука",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.523573,44.986641 ]
+    },
+    "properties": {
+    "id":70,
+    "naziv":"Дисконт Стоилковић",
+    "adresa":"Ослобођења 88",
+    "mesto":"Глогоњ",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.523164,44.990841 ]
+    },
+    "properties": {
+    "id":71,
+    "naziv":"Дућан 2013",
+    "adresa":"1. маја 45",
+    "mesto":"Глогоњ",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.522617,44.988331 ]
+    },
+    "properties": {
+    "id":72,
+    "naziv":"АД Подунавље",
+    "adresa":"Ослобођења 69",
+    "mesto":"Глогоњ",
     "2020-04-10":"1",
     "2020-04-04":"1"
     }
@@ -897,171 +1062,6 @@
     "naziv":"АД Подунавље",
     "adresa":"Краља Петра I бр. 36",
     "mesto":"Долово",
-    "2020-04-10":"1",
-    "2020-04-04":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 20.782582,44.990068 ]
-    },
-    "properties": {
-    "id":62,
-    "naziv":"АД Подунавље",
-    "adresa":"Маршала Тита 67",
-    "mesto":"Банатско Ново Село",
-    "2020-04-10":"1",
-    "2020-04-04":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 20.695747,44.970736 ]
-    },
-    "properties": {
-    "id":63,
-    "naziv":"Мира 1 мај",
-    "adresa":"Првомајска 43",
-    "mesto":"Качарево",
-    "2020-04-10":"1",
-    "2020-04-04":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 20.694784,44.958014 ]
-    },
-    "properties": {
-    "id":64,
-    "naziv":"Мавко",
-    "adresa":"Радничка 104",
-    "mesto":"Качарево",
-    "2020-04-10":"1",
-    "2020-04-04":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 20.692968,44.964553 ]
-    },
-    "properties": {
-    "id":65,
-    "naziv":"Јаца трговина",
-    "adresa":"Маршала Тита 13а",
-    "mesto":"Качарево",
-    "2020-04-10":"1",
-    "2020-04-04":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 20.704018,44.968216 ]
-    },
-    "properties": {
-    "id":66,
-    "naziv":"Пеђа и Маја",
-    "adresa":"Маршала Тита 57",
-    "mesto":"Качарево",
-    "2020-04-10":"1",
-    "2020-04-04":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "id":67,
-    "naziv":"АД Подунавље",
-    "adresa":"Народног фронта ББ",
-    "mesto":"Качарево",
-    "2020-04-10":"1",
-    "2020-04-04":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 20.603136,44.948554 ]
-    },
-    "properties": {
-    "id":68,
-    "naziv":"Браво",
-    "adresa":"Маршала Тита 53",
-    "mesto":"Јабука",
-    "2020-04-10":"1",
-    "2020-04-04":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 20.594821,44.948592 ]
-    },
-    "properties": {
-    "id":69,
-    "naziv":"АД Подунавље",
-    "adresa":"Трг Бориса Кидрича 12",
-    "mesto":"Јабука",
-    "2020-04-10":"1",
-    "2020-04-04":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 20.523573,44.986641 ]
-    },
-    "properties": {
-    "id":70,
-    "naziv":"Дисконт Стоилковић",
-    "adresa":"Ослобођења 88",
-    "mesto":"Глогоњ",
-    "2020-04-10":"1",
-    "2020-04-04":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 20.523164,44.990841 ]
-    },
-    "properties": {
-    "id":71,
-    "naziv":"Дућан 2013",
-    "adresa":"1. маја 45",
-    "mesto":"Глогоњ",
-    "2020-04-10":"1",
-    "2020-04-04":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 20.522617,44.988331 ]
-    },
-    "properties": {
-    "id":72,
-    "naziv":"АД Подунавље",
-    "adresa":"Ослобођења 69",
-    "mesto":"Глогоњ",
     "2020-04-10":"1",
     "2020-04-04":"1"
     }
