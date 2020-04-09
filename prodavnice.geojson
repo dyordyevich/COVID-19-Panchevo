@@ -920,7 +920,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.724056,44.760459 ]
     },
     "properties": {
     "id":53,
