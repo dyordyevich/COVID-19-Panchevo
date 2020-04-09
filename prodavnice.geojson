@@ -1,0 +1,1070 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.811108,44.728019 ]
+    },
+    "properties": {
+    "id":1,
+    "naziv":"Шујдовић",
+    "adresa":"Маршала Тита",
+    "mesto":"Банатски Брестовац",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.817307,44.729646 ]
+    },
+    "properties": {
+    "id":2,
+    "naziv":"Шујдовић",
+    "adresa":"Саве Ковачевића 36",
+    "mesto":"Банатски Брестовац",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.809289,44.728086 ]
+    },
+    "properties": {
+    "id":3,
+    "naziv":"АД Подунавље",
+    "adresa":"Панчевачка бб",
+    "mesto":"Банатски Брестовац",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.6414935,44.8681854 ]
+    },
+    "properties": {
+    "id":4,
+    "naziv":"Доо Васиљевић и син",
+    "adresa":"Касапиновића 5",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.644944,44.8824316 ]
+    },
+    "properties": {
+    "id":5,
+    "naziv":"Доо Васиљевић и син",
+    "adresa":"Војвођански булевар 46",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.6628065,44.8720264 ]
+    },
+    "properties": {
+    "id":6,
+    "naziv":"Доо Васиљевић и син",
+    "adresa":"Краља Милана Обреновића 9",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.666844,44.865252 ]
+    },
+    "properties": {
+    "id":7,
+    "naziv":"Доо Васиљевић и син",
+    "adresa":"Вељка Петровића 11",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":8,
+    "naziv":"GIZ FRUITS",
+    "adresa":"Војвођански булевар ББ",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.648276,44.879721 ]
+    },
+    "properties": {
+    "id":9,
+    "naziv":"Далма ДМ",
+    "adresa":"Моше Пијаде 104",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.647613,44.875673 ]
+    },
+    "properties": {
+    "id":10,
+    "naziv":"Далма ДМ",
+    "adresa":"Браће Јовановића 83",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.645571,44.883770 ]
+    },
+    "properties": {
+    "id":11,
+    "naziv":"Далма ДМ",
+    "adresa":"Кикиндска 9",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.664866,44.864122 ]
+    },
+    "properties": {
+    "id":12,
+    "naziv":"Далма ДМ",
+    "adresa":"Вељка Петровића 5",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.676588,44.871677 ]
+    },
+    "properties": {
+    "id":13,
+    "naziv":"ТР Дуња за вас",
+    "adresa":"Баваништански пут 111",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.675927,44.879166 ]
+    },
+    "properties": {
+    "id":14,
+    "naziv":"ФАМ маркет",
+    "adresa":"Козарачка 84а",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.658541,44.873041 ]
+    },
+    "properties": {
+    "id":15,
+    "naziv":"СТР Благо",
+    "adresa":"Јосифа Маринковића 45",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.663752,44.872452 ]
+    },
+    "properties": {
+    "id":16,
+    "naziv":"Луковић маркет",
+    "adresa":"Илије Гарашанина 6",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.641791,44.869220 ]
+    },
+    "properties": {
+    "id":17,
+    "naziv":"Пилећи дућан",
+    "adresa":"Жарка Зрењанина 3",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.633230,44.884029 ]
+    },
+    "properties": {
+    "id":18,
+    "naziv":"СД 013",
+    "adresa":"Книћанинова 14",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.6676928,44.8832777 ]
+    },
+    "properties": {
+    "id":19,
+    "naziv":"Стр Сњежана",
+    "adresa":"Бачванска 23",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.667369,44.882852 ]
+    },
+    "properties": {
+    "id":20,
+    "naziv":"Стр Миса Келе Подунавље",
+    "adresa":"Рашка 16",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.665223,44.880708 ]
+    },
+    "properties": {
+    "id":21,
+    "naziv":"СТР ТиТ",
+    "adresa":"Македонска 14",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.666403,44.885247 ]
+    },
+    "properties": {
+    "id":22,
+    "naziv":"ТР Цеца 013",
+    "adresa":"Козарачка 183",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.656778,44.884787 ]
+    },
+    "properties": {
+    "id":23,
+    "naziv":"ТР Цеца 013",
+    "adresa":"Скадарска 3",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.650770,44.866143 ]
+    },
+    "properties": {
+    "id":24,
+    "naziv":"Про Трејд 1",
+    "adresa":"Цара Душана 40",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":25,
+    "naziv":"Про Трејд 2",
+    "adresa":"Жарка Зрењанина",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.651896,44.867043 ]
+    },
+    "properties": {
+    "id":26,
+    "naziv":"Про Трејд 3",
+    "adresa":"Петра Прерадовића 36",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.647089,44.872598 ]
+    },
+    "properties": {
+    "id":27,
+    "naziv":"ДЕЛЕЗ",
+    "adresa":"Светог Саве 8А",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.661325,44.869230 ]
+    },
+    "properties": {
+    "id":28,
+    "naziv":"ДИС",
+    "adresa":"Милоша Обреновића 12",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.662240,44.869165 ]
+    },
+    "properties": {
+    "id":29,
+    "naziv":"ЛИДЛ",
+    "adresa":"Милоша Обреновића 12Б",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.647581,44.879306 ]
+    },
+    "properties": {
+    "id":30,
+    "naziv":"ЛИДЛ",
+    "adresa":"Моше Пијаде 104",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.654616,44.879716 ]
+    },
+    "properties": {
+    "id":31,
+    "naziv":"Меркатор",
+    "adresa":"Браће Јовановића 104",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.667609,44.891676 ]
+    },
+    "properties": {
+    "id":32,
+    "naziv":"Родић",
+    "adresa":"Скадарска ББ",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.6465205,44.8827852 ]
+    },
+    "properties": {
+    "id":34,
+    "naziv":"АД Подунавље",
+    "adresa":"Војвођански булевар 9",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.668806,44.863327 ]
+    },
+    "properties": {
+    "id":35,
+    "naziv":"АД Подунавље",
+    "adresa":"Вељка Влаховића 11",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.760763,44.864729 ]
+    },
+    "properties": {
+    "id":36,
+    "naziv":"Фуди маркет Вања",
+    "adresa":"Борова 10",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":37,
+    "naziv":"Лана ВЖ",
+    "adresa":"Кестенова ББ",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.679587,44.838195 ]
+    },
+    "properties": {
+    "id":38,
+    "naziv":"СТР Јелена 2",
+    "adresa":"Светозара Марковића 244",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.671388,44.848441 ]
+    },
+    "properties": {
+    "id":39,
+    "naziv":"Зоки маркет",
+    "adresa":"Добровољачка 44",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.6728861,44.8443326 ]
+    },
+    "properties": {
+    "id":40,
+    "naziv":"Младост Подунавље",
+    "adresa":"Гробљанска 12",
+    "mesto":"Панчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":41,
+    "naziv":"Ад Подунавље",
+    "adresa":"Иве Лоле Рибара 1",
+    "mesto":"Старчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":42,
+    "naziv":"Банат",
+    "adresa":"Жарка Зрењанина 67",
+    "mesto":"Старчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":43,
+    "naziv":"Јуниор Фуд",
+    "adresa":"Панчевачки пут 2",
+    "mesto":"Старчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":44,
+    "naziv":"Лукић",
+    "adresa":"Иве Лоле Рибара 81а",
+    "mesto":"Старчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":45,
+    "naziv":"Ниџа и Неца",
+    "adresa":"Маршала Тита 38",
+    "mesto":"Старчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":46,
+    "naziv":"Пекара Пејић",
+    "adresa":"Панчевачки пут 2",
+    "mesto":"Старчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":47,
+    "naziv":"Пекара Стојиљковић",
+    "adresa":"Маршала Тита 2",
+    "mesto":"Старчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":48,
+    "naziv":"Старчевка",
+    "adresa":"Иве Лоле Рибара 1",
+    "mesto":"Старчево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":49,
+    "naziv":"Гомекс",
+    "adresa":"Трг Светог Саве ББ",
+    "mesto":"Омољица",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":50,
+    "naziv":"Влада",
+    "adresa":"Патријарха Арсенија Чарнојевића 9Б",
+    "mesto":"Омољица",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":51,
+    "naziv":"Влада",
+    "adresa":"Трг Светог Саве",
+    "mesto":"Омољица",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":52,
+    "naziv":"Влада",
+    "adresa":"Краља Петра I бр. 25",
+    "mesto":"Омољица",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":53,
+    "naziv":"Влада",
+    "adresa":"Цара Душана 105",
+    "mesto":"Омољица",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":54,
+    "naziv":"Влада",
+    "adresa":"Вука Караџића 55",
+    "mesto":"Омољица",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":55,
+    "naziv":"Влада",
+    "adresa":"Ђуре Јакшића 87",
+    "mesto":"Омољица",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":56,
+    "naziv":"СТР Маринка",
+    "adresa":"Дожа Ђерђа 51",
+    "mesto":"Иваново",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":57,
+    "naziv":"Тика",
+    "adresa":"Дожa Ђерђа 23",
+    "mesto":"Иваново",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":58,
+    "naziv":"СТР Биља",
+    "adresa":"Краља Петра I бр",
+    "mesto":"Долово",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":59,
+    "naziv":"СТР Биља",
+    "adresa":"Радничка 104",
+    "mesto":"Долово",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":60,
+    "naziv":"СТР Дуца",
+    "adresa":"Светозара Марковића 28",
+    "mesto":"Долово",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":61,
+    "naziv":"АД Подунавље",
+    "adresa":"Краља Петра I бр. 36",
+    "mesto":"Долово",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.782582,44.990068 ]
+    },
+    "properties": {
+    "id":62,
+    "naziv":"АД Подунавље",
+    "adresa":"Маршала Тита 67",
+    "mesto":"Банатско Ново Село",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.695747,44.970736 ]
+    },
+    "properties": {
+    "id":63,
+    "naziv":"Мира 1 мај",
+    "adresa":"Првомајска 43",
+    "mesto":"Качарево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.694784,44.958014 ]
+    },
+    "properties": {
+    "id":64,
+    "naziv":"Мавко",
+    "adresa":"Радничка 104",
+    "mesto":"Качарево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.692968,44.964553 ]
+    },
+    "properties": {
+    "id":65,
+    "naziv":"Јаца трговина",
+    "adresa":"Маршала Тита 13а",
+    "mesto":"Качарево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.704018,44.968216 ]
+    },
+    "properties": {
+    "id":66,
+    "naziv":"Пеђа и Маја",
+    "adresa":"Маршала Тита 57",
+    "mesto":"Качарево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "id":67,
+    "naziv":"АД Подунавље",
+    "adresa":"Народног фронта ББ",
+    "mesto":"Качарево",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.603136,44.948554 ]
+    },
+    "properties": {
+    "id":68,
+    "naziv":"Браво",
+    "adresa":"Маршала Тита 53",
+    "mesto":"Јабука",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.594821,44.948592 ]
+    },
+    "properties": {
+    "id":69,
+    "naziv":"АД Подунавље",
+    "adresa":"Трг Бориса Кидрича 12",
+    "mesto":"Јабука",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.523573,44.986641 ]
+    },
+    "properties": {
+    "id":70,
+    "naziv":"Дисконт Стоилковић",
+    "adresa":"Ослобођења 88",
+    "mesto":"Глогоњ",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.523164,44.990841 ]
+    },
+    "properties": {
+    "id":71,
+    "naziv":"Дућан 2013",
+    "adresa":"1. маја 45",
+    "mesto":"Глогоњ",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.522617,44.988331 ]
+    },
+    "properties": {
+    "id":72,
+    "naziv":"АД Подунавље",
+    "adresa":"Ослобођења 69",
+    "mesto":"Глогоњ",
+    "2020-04-10":"1",
+    "2020-04-04":"1"
+    }
+  }
+]
+}
