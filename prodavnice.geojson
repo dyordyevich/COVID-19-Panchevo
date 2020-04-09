@@ -755,7 +755,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.707442,44.805514 ]
     },
     "properties": {
     "id":41,
@@ -770,7 +770,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.691999,44.810944 ]
     },
     "properties": {
     "id":42,
@@ -785,7 +785,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.705883,44.806859 ]
     },
     "properties": {
     "id":43,
@@ -800,7 +800,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.717327,44.800027 ]
     },
     "properties": {
     "id":44,
@@ -815,7 +815,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.699854,44.807484 ]
     },
     "properties": {
     "id":45,
@@ -830,7 +830,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.705953,44.806837 ]
     },
     "properties": {
     "id":46,
@@ -845,7 +845,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.705235,44.806964 ]
     },
     "properties": {
     "id":47,
@@ -860,22 +860,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "id":48,
-    "naziv":"Старчевка",
-    "adresa":"Иве Лоле Рибара 1",
-    "mesto":"Старчево",
-    "2020-04-10":"1",
-    "2020-04-04":"1"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.737156,44.757356 ]
     },
     "properties": {
     "id":49,
@@ -890,7 +875,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.735579,44.760129 ]
     },
     "properties": {
     "id":50,
@@ -905,7 +890,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.737323,44.757802 ]
     },
     "properties": {
     "id":51,
@@ -920,7 +905,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 20.741180,44.754916 ]
     },
     "properties": {
     "id":52,
